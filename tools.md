@@ -4,3 +4,5 @@
     免费的PDF阅读工具，支持Windows,Linux,Mac
 * [Snipaste](https://www.snipaste.com/index.html)
     免费的截图工具，支持很多截图注释功能，，目前支持windows，Mac
+* [flameshot](https://flameshot.org/)
+    免费的截图工具，支持很多截图注释功能，，目前支持windows，Mac，linux
